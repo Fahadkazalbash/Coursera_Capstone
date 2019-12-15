@@ -1,2 +1,2 @@
 # Coursera_Capstone
-notebook will be mainly used for the capstone projec
+notebook will be mainly used for the capstone project
